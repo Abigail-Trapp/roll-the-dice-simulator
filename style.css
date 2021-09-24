@@ -1,0 +1,25 @@
+button {
+    cursor: pointer;
+  }
+  
+  #graph {
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+  
+  }
+  
+  #graph div {
+    background-color: rgb(231, 231, 231);
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-basis: 10px;
+    height: 40px;
+  }
+  
+  p {
+    text-align: start;
+    width: 100px;
+  
+  }
